@@ -1,0 +1,2 @@
+D:\Program Files (x86)\Unity\Unity\Python_Prototype02\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Program Files (x86)\Unity\Unity\Python_Prototype02\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
